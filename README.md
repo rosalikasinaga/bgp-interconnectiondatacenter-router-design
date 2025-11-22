@@ -1,7 +1,7 @@
 # 🛰️ Data Center Interconnection Using BGP with EVE-NG
 
-This project is a simulation and design of **Data Center Interconnection topology using Border Gateway Protocol (BGP)**.  
-It was developed as a Final Project at **Telkom University Jakarta** by **Rosalika Milenia Sinaga (6101214027)**.
+This repository contains a simulation of **interconnected data centers using Border Gateway Protocol (BGP)** across three different Autonomous Systems (AS).  
+The project uses **Cisco 7206 routers** running inside **EVE-NG**.
 
 ## 📘 Overview
 This project aims to understand how BGP can be implemented in data center interconnection to achieve efficient and scalable routing between multiple Autonomous Systems (AS).
