@@ -21,7 +21,7 @@ Each router is configured with:
 - IPv4 addressing only
 
 ## 🧩 Tools Used
-- VMware Workstation Pro 17  
+- VMware Workstation Pro 17 
 - EVE-NG Community Edition v6.0.1-12  
 - WinSCP, PuTTY, and Windows Client Pack  
 
@@ -30,22 +30,7 @@ Each router is configured with:
 - Router configuration for data center interconnection
 - Verifying connectivity through ping and BGP table inspection
 
-## 📂 Repository Structure
-├── README.md
-├── .gitignore
-├── diagrams/
-│   └── topology.png
-├── configurations/
-│   ├── RTR-AS100-DC1.cfg
-│   ├── RTR-1-AS200-DC2.cfg
-│   ├── RTR-2-AS200-DC2.cfg
-│   ├── RTR-3-AS200-DC2.cfg
-│   └── RTR-AS300-DC3.cfg
-├── labs/
-│   └── eve-ng-lab.unl
-
 ## 🧑‍💻 Author
 **Rosalika Milenia Sinaga**  
 Telecommunication Engineering, Telkom University Jakarta  
 📅 Year: 2024  
-
