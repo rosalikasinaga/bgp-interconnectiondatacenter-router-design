@@ -31,3 +31,12 @@ Each router is configured with:
 - Verifying connectivity through ping and BGP table inspection
 
 ## 📂 Repository Structure
+
+
+## 🧑‍💻 Author
+**Rosalika Milenia Sinaga**  
+Telecommunication Engineering, Telkom University Jakarta  
+📅 Year: 2024  
+
+---
+
