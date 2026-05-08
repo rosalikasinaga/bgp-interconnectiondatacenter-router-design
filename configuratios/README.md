@@ -34,3 +34,5 @@ Each router is configured with:
 **Rosalika Milenia Sinaga**  
 Telecommunication Engineering, Telkom University Jakarta  
 📅 Year: 2024  
+![alt text](<ping e1 ke i1.png>)
+![alt text](<ping e3 ke i3.png>) ![alt text](<ping i1 ke e1.png>) ![alt text](<ping i1 ke i2 dan i3.png>) ![alt text](<ping i2 ke i1 dan i3.png>) ![alt text](<ping i3 ke e3.png>) ![alt text](<ping i3 ke i1 dan i2.png>)
