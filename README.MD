@@ -3,7 +3,7 @@
 This repository contains a simulation of **interconnected data centers using Border Gateway Protocol (BGP)** across three different Autonomous Systems (AS).  
 The project uses **Cisco 7206 routers** running inside **EVE-NG**.
 
-## 📘 Overview
+## Overview
 This project aims to understand how BGP can be implemented in data center interconnection to achieve efficient and scalable routing between multiple Autonomous Systems (AS).
 
 The topology consists of **five routers**, divided into **three data centers**:
@@ -13,26 +13,25 @@ The topology consists of **five routers**, divided into **three data centers**:
 
 Simulation is performed using **EVE-NG Community Edition** with **Cisco IOS 7206VXR** virtual routers.
 
-## ⚙️ Configuration Summary
+## Configuration Summary
 Each router is configured with:
 - Loopback interfaces for Router-ID and BGP Prefix advertisement
 - OSPF for internal routing within AS200
 - BGP for inter-AS communication
 - IPv4 addressing only
 
-## 🧩 Tools Used
+## Tools Used
 - VMware Workstation Pro 17 
 - EVE-NG Community Edition v6.0.1-12  
 - WinSCP
 - PuTTY
 - Windows Client Pack  
 
-## 🧠 Key Learning Outcomes
+## Key Learning Outcomes
 - Implementation of iBGP and eBGP in multi-AS topology
 - Router configuration for data center interconnection
 - Verifying connectivity through ping and BGP table inspection
 
-## 🧑‍💻 Author
+## Author
 **Rosalika Milenia Sinaga**  
-Telecommunication Engineering, Telkom University Jakarta  
-📅 Year: 2024  
+Telecommunication Engineering, Telkom University Jakarta    
