@@ -33,5 +33,11 @@ Each router is configured with:
 - Verifying connectivity through ping and BGP table inspection
 
 ## Author
-**Rosalika Milenia Sinaga**  
-Telecommunication Engineering, Telkom University Jakarta    
+**Rosalika Milenia Sinaga**      
+
+## Lecturers
+**Ade Nurhayati, S.T., M.T.**
+**Nurwan Reza Fachrur Rozi, S.T., M.T.**
+
+## Publisher
+**Telecommunication Engineering, Telkom University Jakarta**
