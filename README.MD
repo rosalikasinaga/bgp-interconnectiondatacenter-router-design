@@ -36,7 +36,7 @@ Each router is configured with:
 **Rosalika Milenia Sinaga**      
 
 ## Lecturers
-**Ade Nurhayati, S.T., M.T.**
+**Ade Nurhayati, S.T., M.T.** <br>
 **Nurwan Reza Fachrur Rozi, S.T., M.T.**
 
 ## Publisher
